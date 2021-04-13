@@ -1,0 +1,1 @@
+hello ${NAVIZ_GIT_BRANCH}.
